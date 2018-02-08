@@ -28,7 +28,7 @@ You can find our public docker images at https://hub.docker.com/r/wodby/
 
 Will be soon published at https://github.com/wodby/wodby-cli
 
-## Naming
+## Our name
 
 Wodby pronounced as `wɔːdbi`. Wodby is a name of a water spirit in a slavic mythology (https://en.wikipedia.org/wiki/Vodyanoy). Vodyanoy or Wodby in Upper Sorbian language.
 
