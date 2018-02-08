@@ -1,6 +1,6 @@
 # Wodby
 
-[Wodby](https://wodby.com) is a platform helping developers manage their server infrastructure and stacks. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). The infrastructure we provide is based mainly on Docker and Kubernetes. Our mission is to simplify and automate most common tasks for infrastructure management and stacks maintenance. 
+[Wodby](https://wodby.com) is a platform helping developers manage their server infrastructure and stacks. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). The infrastructure we provide is strictly container-based and runs on Kubernetes and Docker. Our mission is to simplify the life of developers by automating most common tasks for infrastructure management and stacks maintenance. 
 
 This repository contains the central issue tracker for the Wodby platform.
 
