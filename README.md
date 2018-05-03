@@ -16,11 +16,11 @@ Wodby is a US corporation with a distributed team. Currently we provide support 
 
 ## Single-server setup and managed Kubernetes cluster
 
-Because single-server and cluster infrastructure differ greatly, we make a big stress on this difference. Some of our stacks are suitable for cluster, some are not. You can read more about single-server infrastructure at https://docs.wodby.com/infrastructure/ and about cluster at https://docs.wodby.com/cluster
+Because single-server and cluster infrastructure differ greatly, we make a big stress on this difference. Some of our stacks are suitable for cluster, some are not. You can read more about single-server infrastructure at https://help.wodby.com/infrastructure/single-server-infrastructure and about cluster at https://help.wodby.com/cluster
 
 ## Documentation
 
-Documentation for Wodby platform can be found at https://docs.wodby.com. If you're looking for a documentation of a specific stack, you can find the URL on a stack page.
+Documentation for Wodby platform can be found at https://help.wodby.com. If you're looking for a documentation of a specific stack, you can find the URL on a stack page under https://wodby.com/stacks/
 
 ## Stacks
 
