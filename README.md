@@ -1,6 +1,6 @@
 # Wodby
 
-[Wodby](https://wodby.com) is a platform helping developers manage their server infrastructure and stacks. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). 
+[Wodby](https://wodby.com) is an applications management platform. We help developer deploy and manage their applications across cloud providers. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). 
 
 The infrastructure we provide is strictly container-based and runs on Kubernetes and Docker. Our mission is to simplify the life of developers by automating most common tasks for infrastructure management and stacks maintenance. 
 
@@ -20,7 +20,7 @@ All managed and community stacks can be found at https://wodby.com/stacks/
 
 ## Social
 
-* We are [@WodbyHQ](https://twitter.com/wodbyhq) on Twitter
+* We are [@wodbycloud](https://twitter.com/wodbycloud) on Twitter
 * We have a public community slack at https://slack.wodby.com
 
 ## FAQ
