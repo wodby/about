@@ -12,7 +12,7 @@ Wodby pronounced as `wɔːdbi`. Wodby is a name of a water spirit in a slavic my
 
 ## Documentation
 
-Documentation for Wodby platform can be found at https://docs.wodby.com. If you're looking for a documentation of a specific stack, you can find the URL on a stack page under https://wodby.com/stacks/
+Documentation for Wodby platform can be found at https://wodby.com/docs. If you're looking for a documentation of a specific stack, you can find the URL on a stack page under https://wodby.com/stacks/
 
 ## Stacks
 
@@ -25,7 +25,11 @@ All managed and community stacks can be found at https://wodby.com/stacks/
 
 ## FAQ
 
-See https://docs.wodby.com/faq
+See https://wodby.com/docs/faq
+
+## For developers
+
+See https://wodby.com/docs/dev
 
 ## Our docker images
 
@@ -36,3 +40,4 @@ You can find our public docker images at https://hub.docker.com/r/wodby/
 * https://github.com/wodby/docker4drupal
 * https://github.com/wodby/docker4wordpress
 * https://github.com/wodby/docker4php
+* https://github.com/wodby/docker4ruby
