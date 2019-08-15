@@ -1,10 +1,8 @@
 # Wodby
 
-[Wodby](https://wodby.com) is an applications management platform. We help developer deploy and manage their applications across cloud providers. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). 
+[Wodby](https://wodby.com) is an applications management platform. We help developers deploy and manage their applications across any cloud. Wodby is not a hosting provider, we do not sell compute powers, instead you bring your own server/cluster from any cloud provider you want. We deploy, maintain infrastructure and stacks on your own server(s). 
 
 The infrastructure we provide is strictly container-based and runs on Kubernetes and Docker. Our mission is to simplify the life of developers by automating most common tasks for infrastructure management and stacks maintenance. 
-
-This repository contains the central issue tracker for the Wodby platform.
 
 ## Our name
 
@@ -12,16 +10,20 @@ Wodby pronounced as `wɔːdbi`. Wodby is a name of a water spirit in a slavic my
 
 ## Documentation
 
-Documentation for Wodby platform can be found at https://wodby.com/docs. If you're looking for a documentation of a specific stack, you can find the URL on a stack page under https://wodby.com/stacks/
+Documentation for Wodby platform can be found at https://wodby.com/docs. If you're looking for a documentation of a specific stack, you can find the URL on a stack page under https://wodby.com/stacks
 
 ## Stacks
 
-All managed and community stacks can be found at https://wodby.com/stacks/
+All managed and community stacks can be found at https://wodby.com/stacks
 
-## Social
+## Community
 
-* We are [@wodbycloud](https://twitter.com/wodbycloud) on Twitter
-* We have a public community slack at https://slack.wodby.com
+- We have a public community on [Spectrum](https://spectrum.chat/wodby) and [Slack](https://slack.wodby.com)
+- We are [@wodbycloud](https://twitter.com/wodbycloud) on Twitter
+
+## Platform Status
+
+You can find current platform status at http://status.wodby.com (where you can also subscribe for email updates) or follow [@wodbystatus](https://twitter.com/wodbystatus)
 
 ## FAQ
 
@@ -37,7 +39,8 @@ You can find our public docker images at https://hub.docker.com/r/wodby/
 
 ## Notable open-source projects
 
-* https://github.com/wodby/docker4drupal
-* https://github.com/wodby/docker4wordpress
-* https://github.com/wodby/docker4php
-* https://github.com/wodby/docker4ruby
+- https://github.com/wodby/docker4drupal
+- https://github.com/wodby/docker4wordpress
+- https://github.com/wodby/docker4php
+- https://github.com/wodby/docker4ruby
+- https://github.com/wodby/docker4python
