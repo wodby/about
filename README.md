@@ -27,6 +27,10 @@ All managed and community stacks can be found at https://wodby.com/stacks
 
 You can find current platform status at http://status.wodby.com (where you can also subscribe for email updates) or follow [@wodbystatus](https://twitter.com/wodbystatus)
 
+## Wodby 2.0
+
+We're actively working on Wodby 2.0, you can learn more and join the discussion on [Spectrum](https://spectrum.chat/wodby/general/were-building-wodby-2-0~9b327966-f125-4f9f-9276-cf2aa9f92bf6)
+
 ## FAQ
 
 See https://wodby.com/docs/faq
