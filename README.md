@@ -4,6 +4,8 @@
 
 The infrastructure we provide is strictly container-based and runs on Kubernetes and Docker. Our mission is to simplify the life of developers by automating most common tasks for infrastructure management and stacks maintenance. 
 
+Wodby was founded in 2015 by [Pavel](https://github.com/PavelPrischepa) and [Chingis](https://github.com/csandanov) and backed by one of the most active Silicon Valley VCs [Plug and Play Ventures](https://www.plugandplaytechcenter.com/ventures).
+
 ## Our name
 
 Wodby pronounced as `wɔːdbi`. Wodby is a name of a water spirit in a slavic mythology (https://en.wikipedia.org/wiki/Vodyanoy). Vodyanoy or Wodby in Upper Sorbian language.
