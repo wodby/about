@@ -20,7 +20,7 @@ All managed and community stacks can be found at https://wodby.com/stacks
 
 ## Community
 
-- We have a public community on [Spectrum](https://spectrum.chat/wodby) and [Slack](https://slack.wodby.com)
+- We have a public community on [Slack](https://slack.wodby.com)
 - We are [@wodbycloud](https://twitter.com/wodbycloud) on Twitter
 
 ## Platform Status
