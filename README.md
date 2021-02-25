@@ -29,7 +29,14 @@ You can find current platform status at http://status.wodby.com (where you can a
 
 ## Wodby 2.0
 
-We're actively working on Wodby 2.0, you can learn more and join the discussion on [Spectrum](https://spectrum.chat/wodby/general/were-building-wodby-2-0~9b327966-f125-4f9f-9276-cf2aa9f92bf6)
+We're actively working on Wodby 2.0, follow [us on twitter](https://twitter.com/wodbycloud) to keep with the latest updates. Among the most notable changes:
+- Built-in CI. No more direct git integrations and no need to pay for third-party CI
+- No more VPSs, only managed Kubernetes 
+- Flexible stacks configuration and updates. Managed stack services over managed stacks, i.e. it used to be Drupal stack and now it will be separate managed services: Nginx/Apache, PHP/Ruby/Python, MariaDB/PostgreSQL/MongoDB, Solr/Elasticsearch and etc, that you can combine however you like in your own stack and still get the updates
+- First-class managed databases (e.g. RDS) – spin container-based MariaDB for dev instances and RDS instance for prod
+- Focus on the following cloud providers: AWS, GCP, DigitalOcean and Azure
+
+The alpha version planned to be released in the first half of 2021
 
 ## FAQ
 
